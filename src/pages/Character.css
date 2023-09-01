@@ -1,0 +1,9 @@
+.character {
+  display: flex;
+}
+.characterContent {
+  margin-left: 2rem;
+}
+.characterEpisode {
+  margin-top: 2rem;
+}

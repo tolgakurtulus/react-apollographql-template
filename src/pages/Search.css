@@ -1,0 +1,40 @@
+.search {
+  margin: 75px 200px;
+  width: calc(100% - 400px);
+}
+
+.search-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 30px;
+  a {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+  }
+}
+.search-header > a {
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+}
+
+.search-area {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-area > input {
+  height: 32px;
+  min-width: 400px;
+}
+.search-area > button {
+  height: 38px;
+  min-width: 50px;
+  background-color: green;
+  color: white;
+  font-size: 16px;
+}
