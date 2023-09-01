@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "93e82e3468103fc439de",
+    "revision": "fff786fb3fcd01039237",
     "url": "/react-apollographql-template/static/css/main.c616a28d.chunk.css"
   },
   {
-    "revision": "93e82e3468103fc439de",
-    "url": "/react-apollographql-template/static/js/main.93e82e34.chunk.js"
+    "revision": "fff786fb3fcd01039237",
+    "url": "/react-apollographql-template/static/js/main.fff786fb.chunk.js"
   },
   {
     "revision": "0a58e1c4ae58131f766e",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/react-apollographql-template/static/js/runtime~main.d3917a29.js"
   },
   {
-    "revision": "d465c7b9e9089be0113dfc980809b795",
+    "revision": "fe0b50ef5a79de7d46a8b89d4b0c8196",
     "url": "/react-apollographql-template/index.html"
   }
 ];

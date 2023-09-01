@@ -1,7 +1,7 @@
 {
   "main.css": "/react-apollographql-template/static/css/main.c616a28d.chunk.css",
-  "main.js": "/react-apollographql-template/static/js/main.93e82e34.chunk.js",
-  "main.js.map": "/react-apollographql-template/static/js/main.93e82e34.chunk.js.map",
+  "main.js": "/react-apollographql-template/static/js/main.fff786fb.chunk.js",
+  "main.js.map": "/react-apollographql-template/static/js/main.fff786fb.chunk.js.map",
   "static/js/1.0a58e1c4.chunk.js": "/react-apollographql-template/static/js/1.0a58e1c4.chunk.js",
   "static/js/1.0a58e1c4.chunk.js.map": "/react-apollographql-template/static/js/1.0a58e1c4.chunk.js.map",
   "static/js/2.7d1de1d7.chunk.js": "/react-apollographql-template/static/js/2.7d1de1d7.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/react-apollographql-template/static/js/runtime~main.d3917a29.js.map",
   "static/css/main.c616a28d.chunk.css.map": "/react-apollographql-template/static/css/main.c616a28d.chunk.css.map",
   "index.html": "/react-apollographql-template/index.html",
-  "precache-manifest.f34c6bca5e3e91d596e89ba166ba508e.js": "/react-apollographql-template/precache-manifest.f34c6bca5e3e91d596e89ba166ba508e.js",
+  "precache-manifest.a6d8f4ce58dec459230d3e2f329b1374.js": "/react-apollographql-template/precache-manifest.a6d8f4ce58dec459230d3e2f329b1374.js",
   "service-worker.js": "/react-apollographql-template/service-worker.js"
 }
